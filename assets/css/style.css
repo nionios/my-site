@@ -1,0 +1,46 @@
+body {
+    color:            #fff;
+    background-color: #000;
+    font-family:      "Fira Sans Light";
+    font-weight:      200;
+}
+
+a {
+    color: #fff;
+}
+
+.header {
+    font-family:    "Fira Code Light";
+    font-weight:    100;
+    transform:      rotate(-4deg);
+}
+
+.small-header {
+    font-size:      13px;
+    margin-left:    70px;
+}
+
+.big-header {
+    font-size:      30px;
+    margin:         20px;
+}
+
+.big-header img {
+    transform:      rotate(40deg);
+);
+
+}
+
+.main-text {
+    margin-top:     100px;
+    margin-left:    20px;
+}
+
+.main-text-indented {
+    margin-left:    40px;
+    padding-top:    10px
+}
+
+.enlarged {
+    font-size:      20px;
+}
